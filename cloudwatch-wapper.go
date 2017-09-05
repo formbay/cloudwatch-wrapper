@@ -39,7 +39,7 @@ func main() {
 	}
 
 	app.Name = "Cloudwatch Cron Wrapper"
-	app.Version = "0.0.1"
+	app.Version = "1.0.0"
 	app.Usage = "Execute a command and send the result to cloudwatch events"
 	app.Authors = []cli.Author{
 		cli.Author{
